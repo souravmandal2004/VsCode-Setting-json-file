@@ -1,0 +1,61 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    // "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    // "editor.fontFamily": "CaskaydiaCove Nerd Font",
+    // "editor.fontFamily": "helvetica, sans-serif",
+    // "editor.fontFamily":"Cousine Nerd Font",
+    // "editor.fontFamily": "Martian Mono, Sans-serif",
+    // "editor.fontFamily": "Cascadia Code",
+    // "editor.fontFamily": "fira code",
+    "editor.fontFamily": "menlo, sans-serif",
+    "terminal.integrated.fontFamily": "menlo",
+    "editor.mouseWheelZoom": true,
+    "code-runner.runInTerminal": true,
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 16,
+    "editor.fastScrollSensitivity": 15,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorBlinking": "smooth",
+    "extensions.autoUpdate": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.gpuAcceleration": "off",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.startupEditor": "none",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.accessibilitySupport": "off",
+    "git.openRepositoryInParentFolders": "never",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.menuBarVisibility": "toggle",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "editor.cursorStyle": "block",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions.ignoreRecommendations": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+}
